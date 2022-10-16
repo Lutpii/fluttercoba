@@ -39,7 +39,7 @@ class _HomePageState extends State<HomePage> {
               preferredSize: Size.fromHeight(150), child: Text("Hai Semuanya")),
         ),
         floatingActionButton: Padding(
-          padding: const EdgeInsets.only(left: 30),
+          padding: const EdgeInsets.only(left: 50),
           child: Row(children: [
             FloatingActionButton(
               onPressed: () {
