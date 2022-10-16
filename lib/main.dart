@@ -32,7 +32,7 @@ class _HomePageState extends State<HomePage> {
         appBar: AppBar(
           title: const Text(
             "Selamat Datang",
-            style: TextStyle(fontSize: 80),
+            style: TextStyle(fontSize: 40),
           ),
           backgroundColor: const Color.fromARGB(255, 7, 234, 255),
           bottom: const PreferredSize(
