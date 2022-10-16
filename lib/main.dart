@@ -36,7 +36,7 @@ class _HomePageState extends State<HomePage> {
           ),
           backgroundColor: const Color.fromARGB(255, 7, 234, 255),
           bottom: const PreferredSize(
-              preferredSize: Size.fromHeight(50), child: Text("Hai Semuanya")),
+              preferredSize: Size.fromHeight(150), child: Text("Hai Semuanya")),
         ),
         floatingActionButton: Padding(
           padding: const EdgeInsets.only(left: 30),
